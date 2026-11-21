@@ -1,0 +1,8 @@
+C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.vcxproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.MyForm1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.MyForm3.resources
+C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.vcxproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.vcxproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.MyForm1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.MyForm3.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\Самостоятельная\x64\Debug\Самостоятельная.vcxproj.GenerateResource.cache

@@ -1,0 +1,21 @@
+﻿  MyForm1.cpp
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\ManagedBinaryTree.h(123,45): warning C5307: 'System::String::String(wchar_t,int)': argument (1) converted from 'char' to 'wchar_t'. Missing 'L' encoding-prefix for character literal?
+  (компиляция исходного файла "MyForm1.cpp")
+  
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\MyForm4.h(73,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm1.cpp")
+  
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\MyForm4.h(75,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm1.cpp")
+  
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\MyForm4.h(133,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm1.cpp")
+  
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\MyForm4.h(140,56): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm1.cpp")
+  
+C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\MyForm6.h(608,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm1.cpp")
+  
+  MyForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Самостоятельная.vcxproj -> C:\Users\maksi\OneDrive\Рабочий стол\Atasd\Самостоятельная\x64\Debug\Самостоятельная.exe
